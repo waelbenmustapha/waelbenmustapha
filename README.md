@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waelbenmustapha" alt="waelbenmustapha" /></a> </p>
 
-- 🔭 I’m currently working on [FootballAiResearch](https://footballairesearch.com)
+- 🔭 I’m currently working as a full stack developer 
 
 - 👨‍💻 All of my projects are available at [https://www.waelbenmustapha.com](https://www.waelbenmustapha.com)
 
